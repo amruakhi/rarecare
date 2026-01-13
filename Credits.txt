@@ -2,7 +2,6 @@ Stylesheet & Script
 
 Animate CSS =
 site: https://daneden.github.io/animate.css/
-
 Bootstrap 4 =
 site: https://getbootstrap.com/
 
